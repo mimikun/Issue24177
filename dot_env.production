@@ -1,0 +1,10 @@
+S3_ENABLED=true
+S3_BUCKET=mstdn.mimikun.jp
+S3_REGION=ap-northeast-1
+S3_PROTOCOL=https
+S3_ENDPOINT=https://s3-ap-northeast-1.amazonaws.com
+#S3_HOSTNAME=192.168.1.123:9000
+#S3_HOSTNAME=s3-ap-northeast-1.amazonaws.com
+#S3_ALIAS_HOST=files.mimikun.jp
+S3_ALIAS_HOST=files.mimikun.jp/mstdn.mimikun.jp
+S3_ALIAS_DOMAIN=files.mimikun.jp
